@@ -13,7 +13,7 @@ To begin using this source code, choose one of the following options to get star
 After downloading, simply edit the HTML and CSS files in your favorite text editor to make changes. To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
 Don't hesitate to comment, open a issue or even do a pull-request.
-We'll appreciate every small activity.
+We appreciate every small activity.
 
 ## Bugs and Issues
 
