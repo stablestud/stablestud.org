@@ -185,7 +185,6 @@
 
     <!-- Custom scripts for this template -->
     <script src="js/creative.min.js"></script>
-
   </body>
 
 </html>

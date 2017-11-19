@@ -2,17 +2,17 @@
 
 	if (file_exists('count_visitors.txt'))
 	{
-		$fil = fopen('count_visitors.txt', r);
+		$fil = fopen('count_visitors.txt', 'r');
 		$dat = fread($fil, filesize('count_visitors.txt'));
 		echo $dat+1;
 		fclose($fil);
-		$fil = fopen('count_visitors.txt', w);
+		$fil = fopen('count_visitors.txt', 'w');
 		fwrite($fil, $dat+1);
 	}
 
 	else
 	{
-		$fil = fopen('count_visitors.txt', w);
+		$fil = fopen('count_visitors.txt', 'w');
 		fwrite($fil, 1);
 		echo '1';
 		fclose($fil);
