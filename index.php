@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- stablestud.org v1.0.1 -->
+<!-- stablestud.org v1.0.2 -->
   <head>
 
     <meta charset="utf-8">
@@ -169,7 +169,11 @@
         </div>
       </div>
     </section>
-
+    <div class="container">
+      <div class="row">
+        <p class="text-white mx-auto text-center btn btn-primary btn-xl my-5 text-lowercase">total visits: <strong><?php include "count.php"; ?></strong></p>
+      </div>
+    </div>
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
