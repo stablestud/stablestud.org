@@ -5,8 +5,8 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="This is the website of a developer stablestud.">
+    <meta name="author" content="stablestud">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <title>STABLESTUD</title>
@@ -151,7 +151,7 @@
           <div class="col-lg-8 mx-auto text-center">
             <h2 class="section-heading">Let's Get In Touch!</h2>
             <hr class="my-4">
-            <p class="mb-5 text-left" style="font-family: sans-serif">You got any question? Anything? No matter what, just send me an email.<br/> <strong>It makes me happy!</strong> Send me an email and I will get back to you as soon as possible.</p>
+            <p class="mb-5 text-left" style="font-family: sans-serif">You got any question? Anything? <strong>No matter </strong>what, just send me an email.<br/> I will get back to you as soon as possible.</p>
           </div>
         </div>
         <div class="row">
@@ -163,7 +163,7 @@
           <div class="col-lg-4 mr-auto text-center">
             <i class="fa fa-envelope-o fa-3x mb-3 sr-contact"></i>
             <p>
-              <a href="mailto:contact@stablestud.org" style="font-family: sans-serif">contact(at)stablestud.org</a>
+              <a href="mailto:contact@stablestud.org" style="font-family: sans-serif">contact@stablestud.org</a>
             </p>
           </div>
         </div>
