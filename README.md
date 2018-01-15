@@ -1,6 +1,6 @@
 # [stablestud.org - Website](https://stablestud.org)
 
-This repo is used to actively develop the stablestud.org website. All changes here goes to its (web) root directory.
+This repo is used to actively develop the [stablestud.org](https://stablestud.org) website. All changes here goes to its (web) root directory.
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/stablestud/stablestud.org/master/LICENSE)
 
