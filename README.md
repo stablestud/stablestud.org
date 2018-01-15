@@ -21,3 +21,4 @@ Have you found a bug or an issue with the website? [Open a new issue](https://gi
 
 ## Other
 This project is based on the [Start Bootstrap - Creative](https://github.com/BlackrockDigital/startbootstrap-creative) template.
+Also for the footer [AutoFooter](https://github.com/AndreaCioccarelli/AutoFooter) is used.
