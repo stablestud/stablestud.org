@@ -19,6 +19,6 @@ I appreciate every small activity.
 
 Have you found a bug or an issue with the website? [Open a new issue](https://github.com/stablestud/stablestud.org/issues) here on GitHub.
 
-## Oth
+## Other
 This project is based on the [Start Bootstrap - Creative](https://github.com/BlackrockDigital/startbootstrap-creative) template.<br>
 For the footer im using [AutoFooter](https://github.com/AndreaCioccarelli/AutoFooter).
