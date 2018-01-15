@@ -13,12 +13,12 @@ To begin using this source code, choose one of the following options to get star
 After downloading, simply edit the HTML and CSS files in your favorite text editor to make changes. To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
 Don't hesitate to comment, open a issue or even do a pull-request.
-We appreciate every small activity.
+I appreciate every small activity.
 
 ## Bugs and Issues
 
 Have you found a bug or an issue with the website? [Open a new issue](https://github.com/stablestud/stablestud.org/issues) here on GitHub.
 
-## Other
-This project is based on the [Start Bootstrap - Creative](https://github.com/BlackrockDigital/startbootstrap-creative) template.
-Also for the footer [AutoFooter](https://github.com/AndreaCioccarelli/AutoFooter) is used.
+## Oth
+This project is based on the [Start Bootstrap - Creative](https://github.com/BlackrockDigital/startbootstrap-creative) template.<br>
+For the footer im using [AutoFooter](https://github.com/AndreaCioccarelli/AutoFooter).
