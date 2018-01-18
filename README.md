@@ -1,6 +1,6 @@
 # [stablestud.org - Website](https://stablestud.org)
 
-This repo is used to actively develop the stablestud.org website. All changes here goes to its (web) root directory.
+This repo is used to actively develop the [stablestud.org](https://stablestud.org) website. All changes here goes to its (web) root directory.
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/stablestud/stablestud.org/master/LICENSE)
 
@@ -19,6 +19,6 @@ I appreciate every small activity.
 
 Have you found a bug or an issue with the website? [Open a new issue](https://github.com/stablestud/stablestud.org/issues) here on GitHub.
 
-## Oth
+## Other
 This project is based on the [Start Bootstrap - Creative](https://github.com/BlackrockDigital/startbootstrap-creative) template.<br>
-For the footer im using [AutoFooter](https://github.com/AndreaCioccarelli/AutoFooter).
+For the footer I'm using [AutoFooter](https://github.com/AndreaCioccarelli/AutoFooter).
