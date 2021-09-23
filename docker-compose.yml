@@ -1,0 +1,5 @@
+version: '2'
+services:
+    website:
+        image: stablestud.org/website
+        build: .
