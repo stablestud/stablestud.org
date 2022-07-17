@@ -17,7 +17,7 @@ I appreciate every small activity.
 
 ## Bugs and Issues
 
-Have you found a bug or an issue with the website? [Open a new issue](https://github.com/stablestud/stablestud.org/issues) here on GitHub or send me an email to [webmaster@stablestud.org](mailto:webmaster@stablestud.org).
+Have you found a bug or an issue with the website? [Open a new issue](https://github.com/stablestud/stablestud.org/issues) here on GitHub or send me an email to [stablestud@protonmail.com](mailto:stablestud@protonmail.com).
 
 ## Other
 This project is based on the [Start Bootstrap - Creative](https://github.com/BlackrockDigital/startbootstrap-creative) template.<br>
